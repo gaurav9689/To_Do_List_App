@@ -2,22 +2,22 @@
 A simple and intuitive To-Do List App that helps users organize and track their daily tasks. The app allows users to add, edit, complete, and delete tasks while dynamically updating progress. It also celebrates task completion with a fun confetti effect! Tasks are stored in local storage, so they persist even after page refresh.
 
 ## Features
--**Add Tasks**: Users can input new tasks into the list.
--**Edit Tasks**: Modify existing tasks to update their content.
--**Mark Complete**: Checkbox for marking tasks as completed, which strikes through the task text.
--**Delete Tasks**: Remove unwanted tasks from the list.
--**Task Progress Bar**: A progress bar that fills based on the percentage of completed tasks.
--**Task Statistics**: Displays the number of completed tasks out of the total tasks.
--**Confetti Effect**: A celebratory confetti animation appears when all tasks are completed.
--**Local Storage**: Tasks persist after page refresh by being saved in the browser's local storage.
+- **Add Tasks**: Users can input new tasks into the list.
+- **Edit Tasks**: Modify existing tasks to update their content.
+- **Mark Complete**: Checkbox for marking tasks as completed, which strikes through the task text.
+- **Delete Tasks**: Remove unwanted tasks from the list.
+- **Task Progress Bar**: A progress bar that fills based on the percentage of completed tasks.
+- **Task Statistics**: Displays the number of completed tasks out of the total tasks.
+- **Confetti Effect**: A celebratory confetti animation appears when all tasks are completed.
+- **Local Storage**: Tasks persist after page refresh by being saved in the browser's local storage.
 
 ## Technologies Used
 
--**HTML5**: For structuring the web page.
--**CSS3**: For styling the interface with modern design elements.
--**JavaScript**: Handles task addition, editing, deletion, and progress updates dynamically.
--**Local Storage**: Persists task data across sessions.
--**Confetti Library**: Used for the fun confetti animation when all tasks are completed.
+- **HTML5**: For structuring the web page.
+- **CSS3**: For styling the interface with modern design elements.
+- **JavaScript**: Handles task addition, editing, deletion, and progress updates dynamically.
+- **Local Storage**: Persists task data across sessions.
+- **Confetti Library**: Used for the fun confetti animation when all tasks are completed.
 
 ## How to Use
 1. Add a Task: Type your task into the input field and click the "+" button to add it to the list.
