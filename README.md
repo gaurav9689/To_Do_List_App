@@ -31,7 +31,7 @@ Screenshots
 ## Installation
 1. Clone this repository:
    ```bash
-    git clone https://github.com/gaurav9689/todo-app.git
+    git clone https://github.com/gaurav9689/To_Do_List_App.git
 2. Open the project folder:
    ```bash
         cd todo-app
